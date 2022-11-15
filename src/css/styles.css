@@ -18,3 +18,26 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+h2 {
+  padding-left: 10px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 10px;
+}
+
+li {
+ display: flex;
+align-items: center;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+img {
+  margin-right: 20px;
+}
